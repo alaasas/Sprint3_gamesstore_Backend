@@ -20,3 +20,11 @@ SQL instructions:
 2. run the script.
 3. open DatabaseConnection.java in IntelliJ.
 4. update database connection details.
+
+game.sql -> script for creating game database and user tabel.
+
+gamecontent.sql -> script for creating gamecontent tabel and populated it with data.
+
+shoppingcart.sql -> script for creating shoppingcart tabel.
+
+orders.sql -> script for creating orders tabel.
